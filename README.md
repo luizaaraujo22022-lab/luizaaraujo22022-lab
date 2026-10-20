@@ -20,9 +20,3 @@ I'm a **System Analysis and Development Student** at *Faculdade Católica Imacul
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
